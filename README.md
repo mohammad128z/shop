@@ -48,22 +48,3 @@ This is a Django project that demonstrates [brief description of your project].
     python manage.py runserver
     ```
 
-## Usage
-
-[Instructions on how to use the project]
-
-## Screenshot
-
-!Project Screenshot
-
-## Contributing
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
